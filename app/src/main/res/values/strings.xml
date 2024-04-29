@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello #</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_charge">Charge</string>
+    <string name="title_climate">Climate</string>
+    <string name="seat_heat_pwr">Seats Heat Power</string>
+    <string name="str_whl_heat">Steering Wheel Heating</string>
+    <string name="drv_seat_heat">Driver Seat Heating</string>
+    <string name="pass_seat_heat">Passenger Seat Heating</string>
+
+    <string-array name="heat_options_array">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+</resources>

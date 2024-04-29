@@ -1,0 +1,53 @@
+{
+    "code": "1000",
+    "message": null,
+    "hint": null,
+    "httpStatus": "OK",
+    "data": {
+        "list": [
+            {
+                "factoryCode": "6105",
+                "colorName": "B07 MOYU BLACK",
+                "isIHUConfirm": false,
+                "temId": "V89882390000600189738973",
+                "ihuPlatform": "tsp",
+                "ihuId": "9997226608078191P4R00382",
+                "carProveStatus": "N",
+                "fuelTankCapacity": "0",
+                "seriesCodeVs": "HX11",
+                "iccid": "89882390000600189735",
+                "current": false,
+                "modelCode": "HX11_EUR_Premium_RWD_000",
+                "vehicleOwnerLastTime": 1706126578000,
+                "vin": "HESXR1C4000123000",
+                "fccode": "6105",
+                "id": 1210422,
+                "msisdn": "882390003615571",
+                "vehicleType": 0,
+                "engineNo": "P54K30000",
+                "temType": "",
+                "plateNo": "",
+                "tboxPlatform": "tsp",
+                "seriesName": "HX11",
+                "updateTime": 1706074776000,
+                "vehiclePhotoSmall": "",
+                "modelName": "HX11_EUR_Brabus_RWD_000",
+                "proprietaryPlatform": 0,
+                "recordTime": 1685326463000,
+                "createTime": 1685326463000,
+                "simActivited": 0,
+                "vehiclePhotoBig": "",
+                "loginInfo": {
+                    "isLogined": 0,
+                    "loginUid": ""
+                },
+                "colorCode": "026",
+                "defaultVehicle": true,
+                "matCode": "HX1ETD3A61EU010417",
+                "shareStatus": "N"
+            }
+        ]
+    },
+    "sessionId": "95f40f8447d6761469b8653734735561",
+    "success": true
+}
